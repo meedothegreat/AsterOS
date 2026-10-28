@@ -1,4 +1,5 @@
-# AsterOS
+# AsterOS 
+# Warning: Don't even think of trying to run this OS on a real computer, you'll risk data loss, and possibly bricking your computer, the installer will block you anyway, don't try to bypass it
 Hello! I'm dedicated to building an OS that runs .exe and .dlls for free! I'm willing to make it open source, unfortunately it's still in beta. 
 - I'll be releasing a new version whenever I can so stick around.
 
