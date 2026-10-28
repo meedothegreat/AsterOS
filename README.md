@@ -8,6 +8,8 @@ Hello! I'm dedicated to building an OS that runs .exe and .dlls for free! I'm wi
   Uploaded Source Code for v0.1.0
 - v0.2.0
   Uploaded Source code and complete files + ISO of AsterOS (no mouse movement yet)
+
+
 **New Features in v0.2.0**
 Graphical UEFI installation interface with explicit disk-erasure confirmation.
 GPT partitioning and FAT32 EFI installation code.
